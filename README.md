@@ -1,2 +1,2 @@
 My first readme
-My Readme file has been edited
+My Readme file is edited
